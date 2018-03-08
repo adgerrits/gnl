@@ -1,5 +1,5 @@
 readme in docs
 
-[link naar test1](./docs/test1.md)
+[link naar test1](./test1.md)
 
 
