@@ -14,10 +14,11 @@ Dit zijn de features
 ## FAQ
 Dit is de faq
 
+#Afbeeldingen
 
 <a href="http://ag4it.nl"><img src="images/1.JPG">Link naar ag4it</a>
 
-![Alt text is dit](images/1.JPG?raw=true "naar afbeelding zelf")Afbeelding zelf
+![Alt text is dit](images/1.JPG?raw=true "naar afbeelding zelf")Afbeelding zelf (werkt op github.com maar niet op github.io)
 
 ---
 
