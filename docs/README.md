@@ -29,17 +29,10 @@ let generateProject = project => {
   }
 };
 ---
+#h1 Test
+---
 
-
-[link naar test1](./content/test1.md)
-
-![My image](2.jpg)
-
-# eerste header
-dit is de tekst bij eerste header
-
-## tweede header
-dit is tekst bij de 2e header
+<a href="http://ag4it.nl"><img src="./images/1.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT">Plaatje</a>
 
 <a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT"></a>
 
