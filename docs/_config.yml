@@ -1,5 +1,6 @@
 theme: jekyll-theme-dinky
 title: Site-titel
 description: Site-beschrijving
+#hieronder eigen variabelen; te gebruiken via {{site.home}}
+#zie https://jekyllrb.com/docs/variables/
 home: https://adgerrits.github.io/gnl
-url: https://adgerrits.github.io/gnl
