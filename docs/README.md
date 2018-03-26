@@ -15,7 +15,7 @@ Dit zijn de features
 Dit is de faq
 
 
-<a href="http://ag4it.nl"><img src="./images/1.jpg" alt="AG4IT">Plaatje1</a>
+<a href="http://ag4it.nl"><img src="./images/1.jpg">Plaatje1</a>
 
 <a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT"></a>
 
