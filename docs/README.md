@@ -25,6 +25,30 @@ let generateProject = project => {
 - All the `code` required to get started
 - Images of what it should look like
 
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+
 ## Features
 Dit zijn de features
 
