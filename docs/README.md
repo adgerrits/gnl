@@ -15,7 +15,7 @@ Dit zijn de features
 Dit is de faq
 
 
-<a href="http://ag4it.nl"><img src="gnl/docs/images/1.JPG">Plaatje1</a>
+<a href="http://ag4it.nl"><img src="images/1.JPG">Plaatje1</a>
 
 ![Alt text is dit](images/1.JPG.jpg?raw=true "titel van plaatje")
 
