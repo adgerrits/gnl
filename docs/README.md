@@ -2,10 +2,7 @@
 - [Installation](#installation)
 - [Features](#features)
 - [FAQ](#faq)
-
-[Ga naar pages.dm](content/pages.md) <br>
-[Ga naar test1.dm](content/test1.md) <br>
-[Ga naar test1.dm](./content/test1.md)
+- [test1.dm](./content/test1.md)
 
 ## Installation
 - All the `code` required to get started
