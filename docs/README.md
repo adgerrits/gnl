@@ -17,7 +17,7 @@ Dit is de faq
 
 <a href="http://ag4it.nl"><img src="gnl/docs/images/1.JPG">Plaatje1</a>
 
-![Alt text is dit](docs/images/1.JPG.jpg?raw=true "titel van plaatje")
+![Alt text is dit](images/1.JPG.jpg?raw=true "titel van plaatje")
 
 <a href="http://ag4it.nl"><img src="https://github.com/adgerrits/gnl/blob/master/docs/images/1.JPG">Plaatje1</a>
 
