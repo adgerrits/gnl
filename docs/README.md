@@ -17,9 +17,9 @@ Dit is de faq
 
 <a href="http://ag4it.nl"><img src="images/1.JPG">Ga naar ag4it</a>
 
-![Alt text is dit](images/1.JPG?raw=true "titel van plaatje")
+![Alt text is dit](images/1.JPG?raw=true "naar afbeelding zelf")
 
-<a href="http://ag4it.nl"><img src="https://github.com/adgerrits/gnl/blob/master/docs/images/1.JPG">Plaatje1</a>
+<a href="http://ag4it.nl"><img src="https://github.com/adgerrits/gnl/blob/master/docs/images/1.JPG">Extern plaatje</a>
 
-<a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT"></a>
+<a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT">Extern plaatje</a>
 
