@@ -17,6 +17,8 @@ Dit is de faq
 
 <a href="http://ag4it.nl"><img src="gnl/docs/images/1.JPG">Plaatje1</a>
 
+![Alt text is dit](docs/images/1.JPG.jpg?raw=true "titel van plaatje")
+
 <a href="http://ag4it.nl"><img src="https://github.com/adgerrits/gnl/blob/master/docs/images/1.JPG">Plaatje1</a>
 
 <a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT"></a>
