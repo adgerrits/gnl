@@ -1,6 +1,6 @@
 <a href="http://ag4it.nl"><img src="https://ag4it.nl/fotos/ca2.jpg?v=3&s=200" title="AG4IT header" alt="AG4IT"></a>
 
-[Ga naar test1.dm](content/test1.md)
+[Ga naar test1.dm](content/test1.md) <br>
 [Ga naar test1.dm](./content/test1.md)
 
 ## Table of Contents
