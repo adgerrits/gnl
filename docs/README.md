@@ -15,9 +15,11 @@ Dit zijn de features
 Dit is de faq
 
 
-<a href="http://ag4it.nl"><img src="images/1.JPG">Ga naar ag4it</a>
+<a href="http://ag4it.nl"><img src="images/1.JPG">Link naar ag4it</a>
 
-![Alt text is dit](images/1.JPG?raw=true "naar afbeelding zelf")
+![Alt text is dit](images/1.JPG?raw=true "naar afbeelding zelf")Afbeelding zelf
+
+---
 
 <a href="http://ag4it.nl"><img src="https://github.com/adgerrits/gnl/blob/master/docs/images/1.JPG">Extern plaatje</a>
 
